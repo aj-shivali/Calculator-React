@@ -135,10 +135,14 @@ button:active {
   font-style: italic;
   letter-spacing: 3px;
 }
+.footer > span {
+  font-size: 10px;
+}
 .footer > span > a {
   text-decoration: none;
   color: #0d2f31;
   font-weight: 550;
+  font-size: 10px;
   text-decoration: underline;
 }
 
